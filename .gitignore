@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Kubernetes / Helm
+*.log
+*.tmp
+
+# VS Code
+.vscode/
